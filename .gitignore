@@ -1,0 +1,11 @@
+# Directories
+.vs/
+x64/
+DirectX2D11/x64/
+Debug/
+DirectX2D11/Debug/
+bin/
+bin-int/
+
+# Files
+*.user

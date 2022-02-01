@@ -1,0 +1,6 @@
+key	Name	Atk	Type	Price	Image
+1	Åé	200	0	100	Textures/Item/info.icon1.png
+2	ÀÏº»µµ	500	0	500	Textures/Item/info.icon2.png
+3	¿¢½ºÄ®¸®¹ö	1000	0	3000	Textures/Item/info.icon3.png
+4	»¡°£¹°¾à	0	1	50	Textures/Item/RedCon.png
+5	¿¤¸¯¼­	0	1	300	Textures/Item/Elixir.png

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:4b2a4433dd2d96c04c7228436e6e51e6:f043b53747c2097f47b64b3567fad764:08242a3629c3e1581b0c7935dc572732$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="Knight_Die.png" width="1542" height="774">
+    <sprite n="Knight_die_01.png" x="1" y="1" w="512" h="256" pX="0.5" pY="0.5"/>
+    <sprite n="Knight_die_02.png" x="515" y="1" w="512" h="256" pX="0.5" pY="0.5"/>
+    <sprite n="Knight_die_03.png" x="1029" y="1" w="512" h="256" pX="0.5" pY="0.5"/>
+    <sprite n="Knight_die_04.png" x="1" y="259" w="512" h="256" pX="0.5" pY="0.5"/>
+    <sprite n="Knight_die_05.png" x="515" y="259" w="512" h="256" pX="0.5" pY="0.5"/>
+    <sprite n="Knight_die_06.png" x="1029" y="259" w="512" h="256" pX="0.5" pY="0.5"/>
+    <sprite n="Knight_die_07.png" x="1" y="517" w="512" h="256" pX="0.5" pY="0.5"/>
+    <sprite n="Knight_die_08.png" x="515" y="517" w="512" h="256" pX="0.5" pY="0.5"/>
+</TextureAtlas>
